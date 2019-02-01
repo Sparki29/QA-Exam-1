@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA Exam 1", "QA Exam 1\QA Exam 1.csproj", "{914927D5-4B9B-4952-9982-585DB1AA65FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914927D5-4B9B-4952-9982-585DB1AA65FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914927D5-4B9B-4952-9982-585DB1AA65FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914927D5-4B9B-4952-9982-585DB1AA65FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914927D5-4B9B-4952-9982-585DB1AA65FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D607B6E9-19C9-42DC-82E2-558358F7A7E6}
+	EndGlobalSection
+EndGlobal
